@@ -1,6 +1,6 @@
 # daily backup mysql all databases
 
-## sync backup dir to backup FTP server
+## sync backup dir to FTP or S3
 
 
 for use :
