@@ -23,6 +23,13 @@ and final
 ./mysql.sh
 ```
 
+### requirement for Ubuntu/Debian
+
+```
+sudo apt install lftp # if you want backup in ftp server
+sudo apt install awscli # if you want backup in s3 storage
+```
+
 ## set crontab to daily backups 
 
 CRON:
